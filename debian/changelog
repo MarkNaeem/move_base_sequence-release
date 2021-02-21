@@ -1,0 +1,15 @@
+ros-noetic-move-base-sequence (0.0.1-1buster) buster; urgency=high
+
+  * added a gif to readme
+  * edit2
+  * edit
+  * edited readme
+  * Edited Readme
+  * adjusted class, rosparams, ros topics names
+  * upload the package files
+  * Initial commit
+  * Contributors: Mark Naeem, MarkNaeem
+
+ -- mark <marknaeem@yahoo.com>  Sun, 14 Feb 2021 22:00:00 -0000
+
+

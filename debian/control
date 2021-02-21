@@ -1,0 +1,12 @@
+Source: ros-noetic-move-base-sequence
+Section: misc
+Priority: optional
+Maintainer: mark <marknaeem@yahoo.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-move-base-msgs, ros-noetic-rospy, ros-noetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-move-base-sequence
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-move-base-msgs, ros-noetic-nav-msgs, ros-noetic-rospy, ros-noetic-std-msgs
+Description: The move_base_sequence package
