@@ -1,3 +1,26 @@
+## move_base_sequence (kinetic) - 0.0.1-5
+
+The packages in the `move_base_sequence` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic move_base_sequence --edit` on `Sun, 21 Feb 2021 17:51:31 -0000`
+
+The `move_base_sequence` package was released.
+
+Version of package(s) in repository `move_base_sequence`:
+
+- upstream repository: git@github.com:MarkNaeem/move_base_sequence.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.1-4`
+- new version: `0.0.1-5`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## move_base_sequence (kinetic) - 0.0.1-4
 
 The packages in the `move_base_sequence` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic move_base_sequence --edit` on `Sun, 21 Feb 2021 17:42:15 -0000`
